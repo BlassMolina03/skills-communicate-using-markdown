@@ -1,1 +1,2 @@
-# I added a message as an <h1> header
+# I added a message as header
+# ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
